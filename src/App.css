@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.profile {
+  margin-top: 20px;
+}
+
+.profile img {
+  width: 150px;
+  border-radius: 8px;
+}
+
